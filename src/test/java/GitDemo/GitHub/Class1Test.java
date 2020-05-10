@@ -15,6 +15,11 @@ public class Class1Test {
         System.out.println("True1");
     }
 	@Test
+    public void answerWithTrue11()
+    {
+        System.out.println("True111");
+    }
+	@Test
     public void answerWithTrue2()
     {
         System.out.println("True2");
